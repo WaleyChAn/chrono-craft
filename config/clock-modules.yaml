@@ -1,0 +1,15 @@
+# ChronoCraft Clock Modules Configuration
+# Define available clock display modules here
+
+modules:
+  - name: digital
+    enabled: true
+    config:
+
+  - name: analog
+    enabled: false
+    config:
+
+  - name: pomodoro
+    enabled: false
+    config:

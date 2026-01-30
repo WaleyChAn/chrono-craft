@@ -1,0 +1,2 @@
+<!-- ChronoCraft - Root layout -->
+<!-- Placeholder -->

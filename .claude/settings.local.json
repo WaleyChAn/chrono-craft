@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills find:*)",
+      "Bash(npx skills info:*)",
+      "mcp__web-reader__webReader",
+      "mcp__web-search-prime__webSearchPrime"
+    ]
+  }
+}

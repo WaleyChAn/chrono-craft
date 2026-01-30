@@ -1,0 +1,19 @@
+# ChronoCraft System Configuration
+
+# Server
+server:
+  port: 3000
+  host: "0.0.0.0"
+
+# Display
+display:
+  width: 1920
+  height: 1080
+  fullscreen: true
+  cursor: hidden
+
+# Clock
+clock:
+  defaultModule: "digital"
+  autoSwitch: false
+  switchInterval: 30  # seconds

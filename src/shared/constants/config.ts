@@ -1,0 +1,2 @@
+// ChronoCraft - Shared constants
+// Placeholder
